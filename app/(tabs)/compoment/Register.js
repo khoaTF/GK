@@ -75,6 +75,10 @@ const Register =()=>{
                 label={"Confirm Password"}
                 value={confirmpassword}
                 onChangeText={setConfirmPassword}
+                secureTextEntry ={showPassword}
+                right={
+                        <TextInput.Icon icon={showPassword ? 'eye-off' : 'eye'} onPress={() => setShowPassword(!showPassword)}/>
+                }
             />
             <Button
                 style={styles.passwordContainer3}
