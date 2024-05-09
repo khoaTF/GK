@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85623445763",
+    "project_id": "kt-gk-eca65",
+    "storage_bucket": "kt-gk-eca65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85623445763:android:d36b8a5ba96bf63584f136",
+        "android_client_info": {
+          "package_name": "com.anonymous.GK"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDRyu7z1EXIW_WZQYMAmY7iZ5fucmDEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
